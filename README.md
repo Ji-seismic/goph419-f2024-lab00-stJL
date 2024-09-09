@@ -1,1 +1,1 @@
-# goph419-f2024-lab00-stJL
+# GOPH 419 – Computational Methods for Geophysicists*Semester:* F2024 *Instructor:* B. Karchewski *Author:* Ji Li An example repository setup for a simple Python package.
